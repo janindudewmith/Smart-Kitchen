@@ -103,8 +103,4 @@ The **Smart Kitchen Monitoring System** is an IoT-based project designed to ensu
 - Enhance the graphical interface on ThingsBoard.
 
 ---
-### Contributors
-- **[Your Name/Team Name]**
 
-### License
-This project is licensed under the MIT License.
